@@ -23,6 +23,6 @@ Visit http://localhost:8080/HTML/
 ## Remove docker image
 
 ```
-$ docker-compose stop
-$ docker-compose rm
+$ docker compose stop
+$ docker compose rm
 ```
