@@ -12,8 +12,8 @@ ARG GIT=https://github.com/torvalds/linux.git
 ## Build and run
 
 ```
-$ docker-compose build
-$ docker-compose up -d
+$ docker compose build
+$ docker compose up -d
 ```
 
 ## View Web 
